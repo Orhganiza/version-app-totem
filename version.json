@@ -1,6 +1,6 @@
 {
   "versionName":"3.1.0",
   "apkUrl":"https://github.com/NewApp.apk",
-  "forceUpdate": false,
-  "whatsNew": "<< what changes the app update will bring >>"
+  "forceUpdate": true,
+  "whatsNew": "Correção de marcações offline"
 }
