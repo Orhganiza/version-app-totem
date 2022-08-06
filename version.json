@@ -1,6 +1,6 @@
 {
   "versionName":"3.1.0",
-  "apkUrl":"https://github.com/NewApp.apk",
+  "versionCode": 121012013,
   "forceUpdate": false,
   "whatsNew": "Correção de marcações offline"
 }
