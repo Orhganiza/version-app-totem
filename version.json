@@ -1,6 +1,6 @@
 {
-  "versionName":"3.1.0",
-  "versionCode": 121012015,
+  "versionName":"3.1.1",
+  "versionCode": 121012016,
   "forceUpdate": false,
-  "whatsNew": "\n * Correção erro de memória e performance."
+  "whatsNew": "\n * Ajustes para marcações Offline."
 }
