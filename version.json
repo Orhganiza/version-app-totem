@@ -1,6 +1,6 @@
 {
   "versionName":"3.1.2",
-  "versionCode": 121012017,
+  "versionCode": 121012016,
   "forceUpdate": false,
   "whatsNew": "\n * Exibição de mensagens quando usuário não pode efetuar marcação por estar de férias ou afastado. \n * Possibilidade de inverter a cãmera para realizar marcação."
 }
